@@ -1,0 +1,20 @@
+body {
+    background:pink;
+    color:red;
+    
+}
+
+
+div { 
+border: 1px solid black;
+width: 700px;
+margin:auto;
+padding:20px;
+background: white;
+    
+}
+
+img {
+    width:100%;
+    
+}
